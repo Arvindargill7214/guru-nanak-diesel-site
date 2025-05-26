@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Guru Nanak Diesel Service</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>GURU NANAK DIESEL SERVICE</h1>
+    <p class="tagline">Diesel Fuel Pump & Injector Specialists</p>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Diesel Fuel Pump and Injector Repair</li>
+        <li>ECU Diagnostics</li>
+        <li>Authorised Dealers for Delphi-TVS, Stanadyne, and Denso</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p><strong>Phone:</strong> <a href="tel:7407240514">7407240514</a></p>
+      <p><strong>Hours:</strong> 9:30 AM – 7:30 PM (Mon – Sat)</p>
+      <p><strong>Location:</strong> [Add your address here]</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Guru Nanak Diesel Service. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
